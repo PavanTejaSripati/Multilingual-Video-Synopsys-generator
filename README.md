@@ -10,3 +10,10 @@ After importing and installing all the dependencies for the project, start runni
 4. Translate the preprocessed text to arabic and french.
 5. Feed that translated text to summarization transformer models(BART and MBART).
 6. Evaluate the results(summary) via ROUGE score and Human evaluation.
+
+# Contributing
+We welcome contributions!
+
+# Contact
+"Sripati, Pavan Teja" <psrip2@unh.newhaven.edu>; 
+"Chigicherla, Saikrishna" <schig4@unh.newhaven.edu>;
